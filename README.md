@@ -45,6 +45,7 @@ else:
 	print("Wprowadzono błąd")
 
 #Zadanie 19
+
 def con(char):
 	asci = ord(char)
 	if 'A' <= char <= 'Z':
